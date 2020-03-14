@@ -5,7 +5,7 @@ Table of Contents
    1. [📋Outline](#clipboard-outline)
    2. [⚠️Note](#warning-note)
    3. [📄Coverage](#page_facing_up-coverage)
-   4. [📐Data Record](#-Data-Record)
+   4. [📐Data Record](#triangular_ruler-data-record)
 3. [Cover and Title Page](#Cover-and-Title-Page)
 ---
 
