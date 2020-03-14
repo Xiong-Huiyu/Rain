@@ -2,7 +2,7 @@
 Table of Contents
 1. [Overview](#overview)
 2. [Brief of Notebook](#brief-of-notebook)
-   1. [📋Outline](#-Outline)
+   1. [📋Outline](#clipboard-outline)
    2. [⚠️Note](#-Note)
    3. [📄Coverage](#-Coverage)
    4. [📐Data Record](#-Data-Record)
