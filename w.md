@@ -1,7 +1,3 @@
-## Overview
-
-**Notebook** is very important for experiment. There are many requirements for notebook, so we need to pay attention to how to write a notebook. The reference Chinese website is [here](https://www.biomart.cn/experiment/430/599/627/205672.htm).
-
 ---
 Table of Contents
 1. [Overview](#️Overview)
@@ -12,6 +8,11 @@ Table of Contents
    4. [📐Data Record](#-Data-Record)
 3. [Cover and Title Page](#Cover-and-Title-Page)
 ---
+
+
+## Overview
+
+**Notebook** is very important for experiment. There are many requirements for notebook, so we need to pay attention to how to write a notebook. The reference Chinese website is [here](https://www.biomart.cn/experiment/430/599/627/205672.htm).
 
 
 ## Brief of Notebook
